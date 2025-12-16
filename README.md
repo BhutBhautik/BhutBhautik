@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I' Bhut Bhautik</h1>
+<h3 align="center">Student | Aspiring Software Developer</h3>
 
-<!--
-**BhutBhautik/BhutBhautik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Currently learning programming & development  
+💻 Interested in Web Development and Software Projects & Cloud Management 
+🚀 Building projects to improve my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- C, C++
+- HTML, CSS, JavaScript,Boostrap,React,Node,Aws,CICD Pipline etc
+- Git & GitHub
+- SQL,Mongodb
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhutBhautik&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=BhutBhautik&theme=tokyonight)
